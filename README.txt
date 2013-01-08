@@ -1,0 +1,1 @@
+Sokoban as a Python module.
